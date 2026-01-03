@@ -3,6 +3,7 @@
 
 iOS developer with full-stack experience, currently focused on AI tooling and experimentation.
 
+- 🧩 Building things at https://xnu.app
 - 🌱 Vibe coding & 3D printing
 - 👯 Practicing English daily — always happy to chat
 - 🔭 Cupertino, CA, US
