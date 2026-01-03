@@ -1,5 +1,5 @@
 👻 Hey!
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=everettjf&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<!-- <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=everettjf&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /> -->
 
 iOS developer with full-stack experience, currently focused on AI tooling and experimentation.
 
