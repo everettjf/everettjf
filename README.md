@@ -19,7 +19,7 @@
 *   🤖 **[Wizvoid](https://github.com/everettjf/Wizvoid)** - Offline-first AI assistant for iPhone running local MLX models.
 *   💻 **[EasyVM](https://github.com/everettjf/EasyVM)** - A simple virtual machine application for macOS.
 *   🚀 **[StartMyApp](https://github.com/everettjf/StartMyApp)** - The fastest way to find and launch applications on macOS.
-*   🔎 **[JSONDiff](https://github.com/everettjf/MyJSONDiff)** - A professional, clean, and fast JSON comparison tool.
+*   🔎 **[MyJSONDiff](https://github.com/everettjf/MyJSONDiff)** - A professional, clean, and fast JSON comparison tool.
 *   🗓️ **[CountMyDays](https://xnu.app/countmydays)** - A beautiful app for tracking important dates.
 
 ## Connect
