@@ -20,7 +20,7 @@
 *   💻 **[EasyVM](https://github.com/everettjf/EasyVM)** - A simple virtual machine application for macOS.
 *   🚀 **[StartMyApp](https://github.com/everettjf/StartMyApp)** - The fastest way to find and launch applications on macOS.
 *   🔎 **[MyJSONDiff](https://github.com/everettjf/MyJSONDiff)** - A professional, clean, and fast JSON comparison tool.
-*   🗓️ **[CountMyDays](https://xnu.app/countmydays)** - A beautiful app for tracking important dates.
+*   🗓️ **[CountMyDays](https://github.com/everettjf/CountMyDays)** - A beautiful app for tracking important dates.
 
 ## Connect
 
