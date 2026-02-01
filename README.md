@@ -1,6 +1,6 @@
 # Hi, I'm Everett 👋
 
-📍 **Cupertino, CA** | 📱 **iOS Developer & Full-Stack Engineer** | 🤖 **Exploring AI Tooling**
+📱 **iOS Developer & Full-Stack Engineer** | 🤖 **Exploring AI Tooling**
 
 > An experienced iOS developer with a passion for the full stack. Currently diving deep into the world of AI, building innovative tools and experimenting with the future of software development. I enjoy vibe coding, 3D printing, and am always happy to chat!
 
