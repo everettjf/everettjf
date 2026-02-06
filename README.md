@@ -12,6 +12,7 @@
 *   📖 **[RepoRead](https://github.com/everettjf/RepoRead)** - A lightweight desktop app to browse GitHub repositories without cloning.
 *   ✍️ **[ScriptWidget](https://github.com/everettjf/ScriptWidget)** - Create native widgets for iOS & macOS using JavaScript and a JSX-like syntax.
 *   ⌨️ **[Remoboard](https://github.com/everettjf/Remoboard)** - Use your computer's keyboard to type directly on your iPhone.
+*   📖 **[PDFRead](https://github.com/everettjf/PDFRead)** - A Tauri desktop PDF bilingual reader with sentence-level alignment and translation.
 *   🌐 **[Translayr](https://github.com/everettjf/Translayr)** - System-level AI translation for macOS using local models.
 *   🦀 **[atosl-rs](https://github.com/everettjf/atosl-rs)** - A Rust-based replacement for Apple's `atos` tool on Linux for symbolication.
 *   🧩 **[WasmPatch](https://github.com/everettjf/WasmPatch)** - A patch module for iOS/macOS apps using WebAssembly.
