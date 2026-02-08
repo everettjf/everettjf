@@ -8,7 +8,8 @@
 
 ## Featured Projects
 
-*   📖 **[OhMyCowork](https://github.com/everettjf/OhMyCowork)** - A local-first AI coworker desktop app for focused work.
+*   🦀 **[MicroClaw](https://github.com/microclaw/microclaw)** - Rewrite OpenClaw/NanoClaw with Rust.
+*   🧩 **[OhMyCowork](https://github.com/everettjf/OhMyCowork)** - A local-first AI coworker desktop app for focused work.
 *   📖 **[RepoRead](https://github.com/everettjf/RepoRead)** - A lightweight desktop app to browse GitHub repositories without cloning.
 *   ✍️ **[ScriptWidget](https://github.com/everettjf/ScriptWidget)** - Create native widgets for iOS & macOS using JavaScript and a JSX-like syntax.
 *   ⌨️ **[Remoboard](https://github.com/everettjf/Remoboard)** - Use your computer's keyboard to type directly on your iPhone.
