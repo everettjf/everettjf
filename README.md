@@ -9,7 +9,7 @@
 ## Featured Projects
 
 *   🦀 **[MicroClaw](https://github.com/microclaw/microclaw)** - Rewrite OpenClaw with Rust.
-*   🤖 **[SkillsYoga](https://github.com/microclaw/skillsyoga)** - Desktop Skills Manager.
+*   🤖 **[SkillsYoga](https://github.com/microclaw/skillsyoga)** - Desktop skills manager.
 *   🧩 **[OhMyCowork](https://github.com/everettjf/OhMyCowork)** - A local-first AI coworker desktop app for focused work.
 *   📖 **[RepoRead](https://github.com/everettjf/RepoRead)** - A lightweight desktop app to browse GitHub repositories without cloning.
 *   ✍️ **[ScriptWidget](https://github.com/everettjf/ScriptWidget)** - Create native widgets for iOS & macOS using JavaScript and a JSX-like syntax.
