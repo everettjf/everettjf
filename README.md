@@ -10,7 +10,7 @@
 
 *   🦀 **[MicroClaw](https://github.com/microclaw/microclaw)** - Rewrite OpenClaw with Rust.
 *   🤖 **[SkillsYoga](https://github.com/microclaw/skillsyoga)** - Desktop skills manager.
-*   🧩 **[OhMyCowork](https://github.com/everettjf/OhMyCowork)** - A local-first AI coworker desktop app for focused work.
+*   🧩 **[TypeMore](https://github.com/everettjf/typemore)** - Offline voice input method app.
 *   📖 **[RepoRead](https://github.com/everettjf/RepoRead)** - A lightweight desktop app to browse GitHub repositories without cloning.
 *   ✍️ **[ScriptWidget](https://github.com/everettjf/ScriptWidget)** - Create native widgets for iOS & macOS using JavaScript and a JSX-like syntax.
 *   ⌨️ **[Remoboard](https://github.com/everettjf/Remoboard)** - Use your computer's keyboard to type directly on your iPhone.
