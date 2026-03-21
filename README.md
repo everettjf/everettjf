@@ -9,6 +9,7 @@
 ## Featured Projects
 
 *   🦀 **[MicroClaw](https://github.com/microclaw/microclaw)** - Rewrite OpenClaw with Rust.
+*   🧩 **[Liney](https://github.com/everettjf/liney)** - Yet another terminal for vibe coding.
 *   🤖 **[SkillsYoga](https://github.com/microclaw/skillsyoga)** - Desktop skills manager.
 *   🧩 **[TypeMore](https://github.com/everettjf/typemore)** - Offline voice input method app.
 *   📖 **[RepoRead](https://github.com/everettjf/RepoRead)** - A lightweight desktop app to browse GitHub repositories without cloning.
