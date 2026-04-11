@@ -8,10 +8,9 @@
 
 ## Featured Projects
 
+*   🦀 **[OpenRocky](https://github.com/openrocky/openrocky)** - Rocky is a voice-first AI Agent app for mobile.
 *   🦀 **[MicroClaw](https://github.com/microclaw/microclaw)** - Rewrite OpenClaw with Rust.
 *   🧩 **[Liney](https://github.com/everettjf/liney)** - Yet another terminal for vibe coding.
-*   🤖 **[SkillsYoga](https://github.com/microclaw/skillsyoga)** - Desktop skills manager.
-*   🧩 **[TypeMore](https://github.com/everettjf/typemore)** - Offline voice input method app.
 *   📖 **[RepoRead](https://github.com/everettjf/RepoRead)** - A lightweight desktop app to browse GitHub repositories without cloning.
 *   ✍️ **[ScriptWidget](https://github.com/everettjf/ScriptWidget)** - Create native widgets for iOS & macOS using JavaScript and a JSX-like syntax.
 *   ⌨️ **[Remoboard](https://github.com/everettjf/Remoboard)** - Use your computer's keyboard to type directly on your iPhone.
