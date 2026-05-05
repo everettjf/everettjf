@@ -11,12 +11,12 @@
 *   🦀 **[MicroClaw](https://github.com/microclaw/microclaw)** - Rewrite OpenClaw with Rust.
 *   🧩 **[Liney](https://github.com/everettjf/liney)** - Yet another terminal for vibe coding.
 *   ✍️ **[ScriptWidget](https://github.com/everettjf/ScriptWidget)** - Create native widgets for iOS & macOS using JavaScript and a JSX-like syntax.
+*   💻 **[vm4a](https://github.com/everettjf/vm4a)** - A simple virtual machine application for macOS.
 *   ⌨️ **[Remoboard](https://github.com/everettjf/Remoboard)** - Use your computer's keyboard to type directly on your iPhone.
+*   🧱 **[MachOExplorer](https://github.com/everettjf/MachOExplorer)** - A comprehensive tool for exploring Mach-O binary files.
 *   🦀 **[atosl-rs](https://github.com/everettjf/atosl-rs)** - A Rust-based replacement for Apple's `atos` tool on Linux for symbolication.
 *   🧩 **[WasmPatch](https://github.com/everettjf/WasmPatch)** - A patch module for iOS/macOS apps using WebAssembly.
 *   🍎 **[AppleTrace](https://github.com/everettjf/AppleTrace)** - A powerful tool for tracing Objective-C method calls.
-*   🧱 **[MachOExplorer](https://github.com/everettjf/MachOExplorer)** - A comprehensive tool for exploring Mach-O binary files.
-*   💻 **[vm4a](https://github.com/everettjf/vm4a)** - A simple virtual machine application for macOS.
 
 ## Connect
 
