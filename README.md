@@ -16,7 +16,7 @@
 *   🧩 **[WasmPatch](https://github.com/everettjf/WasmPatch)** - A patch module for iOS/macOS apps using WebAssembly.
 *   🍎 **[AppleTrace](https://github.com/everettjf/AppleTrace)** - A powerful tool for tracing Objective-C method calls.
 *   🧱 **[MachOExplorer](https://github.com/everettjf/MachOExplorer)** - A comprehensive tool for exploring Mach-O binary files.
-*   💻 **[EasyVM](https://github.com/everettjf/EasyVM)** - A simple virtual machine application for macOS.
+*   💻 **[vm4a](https://github.com/everettjf/vm4a)** - A simple virtual machine application for macOS.
 
 ## Connect
 
